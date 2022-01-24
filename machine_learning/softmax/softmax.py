@@ -1,14 +1,5 @@
-"""
-Student Name: Mak Chun Wai
-Student ID: 20801333
-Assignment #: HA1
-Student Email: cwmakah@connect.ust.hk
-Course Name: MSBD5012 Machine Learning
-"""
-"""
-           Programming Assignment 1
-         
 
+"""
 This program learns a softmax model for the Iris dataset (included).
 There is a function, compute_softmax_loss, that computes the
 softmax loss and the gradient. It is left empty. Your task is to write
