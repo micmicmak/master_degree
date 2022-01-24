@@ -1,6 +1,7 @@
 # Hash Tree
 
 Suppose we have 31 candidate item sets of length 3:
+
 {1 2 3}, {1 4 5}, {1 2 4}, {1 2 5}, {1 5 9}, {1 3 6},
 
 {2 3 4}, {2 5 9}
