@@ -1,7 +1,6 @@
 # Questions
 ### Q1. Given the following network, obtain the degree and clustering coefficient for each node.
 ![Alt text](./network.jpg?raw=true "network")
-![alt text](https://github.com/micmicmak/master_degree/blob/main/network.jpg?raw=true)
 
 ### Q2. In this question, you have to compare a real-world graph data set with the random graph using NetworkX.
 (a) Wikipedia vote network dataset: It contains 7,115 nodes and 103,689 (directed) edges. The dataset
