@@ -26,6 +26,7 @@ This file contains a dictionary object with the following information of a direc
 - val mask: This has the same format as train mask, and shows whether each node is used in the validation set or not.
 
 2. You have to use the graph neural network model dgl.nn.pytorch.conv.GINConv in DGL. It implements the following neighborhood aggregation:
+
 ![Alt text](./formula.jpg?raw=true "formula")
 
 This model includes the graph neural network model discussed in class, but is more general. For details,
