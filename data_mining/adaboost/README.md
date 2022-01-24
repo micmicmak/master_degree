@@ -9,3 +9,7 @@ Dataset consists of 10 data and 2 labels.
 We assume the weak classifier is produced by x < v or x > v where v is the threshold and makes
 the classifier get the best accuracy on the dataset. You should implement the AdaBoost algorithm
 to learn a strong classifier.
+
+## Note
+Adaboost library is NOT allowed to be used. You need to implement it manually and submit
+your code.
