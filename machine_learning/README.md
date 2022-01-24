@@ -9,3 +9,6 @@ On successful completion of the course, students will be able to:
 2. Use Bayesian learning and Artificial Neural Networks for classifications and recommendations.
 3. Use computational learning theory to improve the learning efficiency.
 4. Identify the requirements of learning tasks and apply suitable learning techniques.
+
+### Notes
+For neural networks, python library PyTorch on Google colab is used.
