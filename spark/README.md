@@ -12,3 +12,12 @@ On successful completion of the course, students will be able to:
 1. Build a Hadoop Ecosystem.
 2. Manage the data over Spark systems.
 3. Apply the knowledge of Spark and Hadoop Ecosystems for maintaining and monitoring Big Data Computing Systems.
+
+### Notes
+All notebooks in this folder should run while spark is running in Linux/Unix system.
+The environment:
+- spark 3.0.3
+- hadoop 2.7
+- java 1.8 or above
+- graphframes 0.8.0
+- python3
